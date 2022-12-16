@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/anuj-gaurav-9b9195217/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" https://www.linkedin.com/in/anuj-gaurav-9b9195217/" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/amanyddv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amanyddv" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anuj_123mbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anuj_123mbd" height="30" width="40" /></a>
   
 <a href="https://codeforces.com/profile/amanyddv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amanyddv" height="30" width="40" /></a>
   
